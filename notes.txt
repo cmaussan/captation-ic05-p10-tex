@@ -1,0 +1,5 @@
+Notes pour la prochaine fois
+
+- expliquer le concept de crawl (c'est con mais bon ;) avec un schéma pour illustrer les métriques et rajouter 'frontière'
+- ajouter un truc sur les redirections et les shorteners urls dans adressage
+
