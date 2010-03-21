@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.3.17)  21 MAR 2010 17:06
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.3.17)  21 MAR 2010 17:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1597,7 +1597,7 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  16418 strings out of 495061
  274716 string characters out of 1182621
- 423522 words of memory out of 3000000
+ 423502 words of memory out of 3000000
  18967 multiletter control sequences out of 15000+50000
  9735 words of font info for 37 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -1615,9 +1615,9 @@ nts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf-texlive/fonts/type1/pu
 blic/amsfonts/cm/cmtt9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
 s/symbols/msam5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbo
 ls/msam7.pfb>
-Output written on captation-ic05-p10.pdf (107 pages, 931519 bytes).
+Output written on captation-ic05-p10.pdf (107 pages, 931982 bytes).
 PDF statistics:
- 3276 PDF objects out of 3580 (max. 8388607)
+ 3278 PDF objects out of 3580 (max. 8388607)
  218 named destinations out of 1000 (max. 500000)
  67 words of extra memory for PDF output out of 10000 (max. 10000000)
 
