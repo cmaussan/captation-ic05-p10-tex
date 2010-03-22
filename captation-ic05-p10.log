@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.3.17)  21 MAR 2010 18:03
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.3.17)  22 MAR 2010 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1286,53 +1286,53 @@ File: logo.png Graphic file (type png)
  <use logo.png> [41
 
 ]
+\openout3 = `captation-ic05-p10.vrb'.
+
+
+(./captation-ic05-p10.vrb
+(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+))
+File: logo.png Graphic file (type png)
+ <use logo.png>
+[42
+
+] <crawler.png, id=1272, 681.6053pt x 683.02235pt>
+File: crawler.png Graphic file (type png)
+ <use crawler.png>
 File: logo.png Graphic file (type png)
 
-<use logo.png> [42
+<use logo.png> [43
 
-]
-File: logo.png Graphic file (type png)
- <use logo.png> [43
-
-]
+ <./crawler.png (PNG copy)>]
 File: logo.png Graphic file (type png)
  <use logo.png> [44
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png>
-[45
+
+<use logo.png> [45
 
 ]
 File: logo.png Graphic file (type png)
  <use logo.png> [46
 
 ]
-\openout3 = `captation-ic05-p10.vrb'.
+File: logo.png Graphic file (type png)
+ <use logo.png> [47
 
- (./captation-ic05-p10.vrb
-(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2004/09/05 1.3 listings language file
-))
+]
 File: logo.png Graphic file (type png)
  <use logo.png>
-[47
+[48
 
-] <crawler.png, id=1416, 681.6053pt x 683.02235pt>
-File: crawler.png Graphic file (type png)
- <use crawler.png>
-File: logo.png Graphic file (type png)
-
-<use logo.png> [48
-
- <./crawler.png (PNG copy)>]
+]
 File: logo.png Graphic file (type png)
  <use logo.png> [49
 
 ]
 File: logo.png Graphic file (type png)
-
-<use logo.png> [50
+ <use logo.png> [50
 
 ]
 File: logo.png Graphic file (type png)
@@ -1340,12 +1340,12 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [52
+
+<use logo.png> [52
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png>
-[53
+ <use logo.png> [53
 
 ]
 File: logo.png Graphic file (type png)
@@ -1353,7 +1353,8 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [55
+ <use logo.png>
+[55
 
 ]
 File: logo.png Graphic file (type png)
@@ -1361,8 +1362,7 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
-
-<use logo.png> [57
+ <use logo.png> [57
 
 ]
 File: logo.png Graphic file (type png)
@@ -1370,12 +1370,12 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [59
+
+<use logo.png> [59
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png>
-[60
+ <use logo.png> [60
 
 ]
 File: logo.png Graphic file (type png)
@@ -1383,7 +1383,8 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [62
+ <use logo.png>
+[62
 
 ]
 File: logo.png Graphic file (type png)
@@ -1391,8 +1392,7 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
-
-<use logo.png> [64
+ <use logo.png> [64
 
 ]
 File: logo.png Graphic file (type png)
@@ -1400,12 +1400,12 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [66
+
+<use logo.png> [66
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png>
-[67
+ <use logo.png> [67
 
 ]
 File: logo.png Graphic file (type png)
@@ -1413,7 +1413,8 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [69
+ <use logo.png>
+[69
 
 ]
 File: logo.png Graphic file (type png)
@@ -1421,8 +1422,7 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
-
-<use logo.png> [71
+ <use logo.png> [71
 
 ]
 File: logo.png Graphic file (type png)
@@ -1430,12 +1430,12 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [73
+
+<use logo.png> [73
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png>
-[74
+ <use logo.png> [74
 
 ]
 File: logo.png Graphic file (type png)
@@ -1443,7 +1443,8 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [76
+ <use logo.png>
+[76
 
 ]
 File: logo.png Graphic file (type png)
@@ -1451,8 +1452,7 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
-
-<use logo.png> [78
+ <use logo.png> [78
 
 ]
 File: logo.png Graphic file (type png)
@@ -1460,12 +1460,12 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [80
+
+<use logo.png> [80
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png>
-[81
+ <use logo.png> [81
 
 ]
 File: logo.png Graphic file (type png)
@@ -1473,7 +1473,8 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [83
+ <use logo.png>
+[83
 
 ]
 File: logo.png Graphic file (type png)
@@ -1481,8 +1482,7 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
-
-<use logo.png> [85
+ <use logo.png> [85
 
 ]
 File: logo.png Graphic file (type png)
@@ -1490,12 +1490,12 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [87
+
+<use logo.png> [87
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png>
-[88
+ <use logo.png> [88
 
 ]
 File: logo.png Graphic file (type png)
@@ -1503,7 +1503,8 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [90
+ <use logo.png>
+[90
 
 ]
 File: logo.png Graphic file (type png)
@@ -1511,8 +1512,7 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
-
-<use logo.png> [92
+ <use logo.png> [92
 
 ]
 File: logo.png Graphic file (type png)
@@ -1520,12 +1520,12 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [94
+
+<use logo.png> [94
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png>
-[95
+ <use logo.png> [95
 
 ]
 File: logo.png Graphic file (type png)
@@ -1533,7 +1533,8 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [97
+ <use logo.png>
+[97
 
 ]
 File: logo.png Graphic file (type png)
@@ -1541,8 +1542,7 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
-
-<use logo.png> [99
+ <use logo.png> [99
 
 ]
 File: logo.png Graphic file (type png)
@@ -1550,33 +1550,8 @@ File: logo.png Graphic file (type png)
 
 ]
 File: logo.png Graphic file (type png)
- <use logo.png> [101
 
-]
-File: logo.png Graphic file (type png)
- <use logo.png>
-[102
-
-]
-File: logo.png Graphic file (type png)
- <use logo.png> [103
-
-]
-File: logo.png Graphic file (type png)
- <use logo.png> [104
-
-]
-File: logo.png Graphic file (type png)
- <use logo.png> [105
-
-]
-File: logo.png Graphic file (type png)
-
-<use logo.png> [106
-
-]
-File: logo.png Graphic file (type png)
- <use logo.png> [107
+<use logo.png> [101
 
 ]
 \tf@nav=\write5
@@ -1595,29 +1570,35 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 16418 strings out of 495061
- 274716 string characters out of 1182621
+ 16383 strings out of 495061
+ 273801 string characters out of 1182621
  423502 words of memory out of 3000000
- 18967 multiletter control sequences out of 15000+50000
+ 18942 multiletter control sequences out of 15000+50000
  9735 words of font info for 37 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  45i,15n,73p,345b,1441s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/
-type1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/public
-/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmssi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi1
-2.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr
-/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf
--texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf-texlive/fonts/type1/pu
-blic/amsfonts/cm/cmtt9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
-s/symbols/msam5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbo
-ls/msam7.pfb>
-Output written on captation-ic05-p10.pdf (107 pages, 931978 bytes).
+pdfTeX warning (dest): name{Navigation102} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation107} has been referenced but does not exi
+st, replaced by a fixed one
+
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmssi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi12.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmtt9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+symbols/msam5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols
+/msam7.pfb>
+Output written on captation-ic05-p10.pdf (101 pages, 889593 bytes).
 PDF statistics:
- 3278 PDF objects out of 3580 (max. 8388607)
- 218 named destinations out of 1000 (max. 500000)
+ 3100 PDF objects out of 3580 (max. 8388607)
+ 208 named destinations out of 1000 (max. 500000)
  67 words of extra memory for PDF output out of 10000 (max. 10000000)
 
