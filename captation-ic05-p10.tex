@@ -21,6 +21,11 @@
 \newcommand<>{\rtgicolor}[1]{{\color#2[HTML]{FFAA00}#1}}
 \newenvironment{rtgicolorenv}{\only{\color[HTML]{FFAA00}}}{}
 
+\newcommand{\screenshot}[1]{\centerline{%
+    \includegraphics[height=8.3cm,transparent]{#1}}}
+
+%\setbeamertemplate{navigation symbols}{}
+
 \NoAutoSpaceBeforeFDP 
 
 \title{Captation de données web}
@@ -29,8 +34,6 @@
 \date{IC05 - P10}
 
 \begin{document}
-
-%\section{Introduction}
 
 \logo{\includegraphics[width=1cm]{logo}}
 
@@ -149,7 +152,7 @@
 \section{Approche classique}
 
 \frame{
-    Carte de sites
+    \screenshot{politicosphere.png}
 }
 
 \frame{
@@ -362,10 +365,12 @@ print "end.\n";
 }
 
 \frame{
-    Carte des profils github
+    \screenshot{github.png}
 }
 
 \frame{
+	\frametitle{Conclusion}
+
 
 	\begin{itemize}[<+-| rtgicolor@+>]
 	\item Savoir ce que l'on veut récupérer
