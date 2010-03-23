@@ -2,4 +2,4 @@
 \select@language {french}
 \beamer@sectionintoc {1}{Le web}{7}{0}{1}
 \beamer@sectionintoc {2}{Approche classique}{36}{0}{2}
-\beamer@sectionintoc {3}{Approche moderne}{72}{0}{3}
+\beamer@sectionintoc {3}{Approche moderne}{71}{0}{3}
